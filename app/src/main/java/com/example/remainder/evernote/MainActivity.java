@@ -41,6 +41,10 @@ public class MainActivity extends ActionBarActivity implements View.OnClickListe
                 finish();
                 break;
             case R.id.ImgNote:
+                Intent k=new Intent(this,Add_Note.class);
+                startActivity(k);
+                finish();
+
                 break;
             case R.id.ImgImg:
                 finish();

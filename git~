@@ -1,0 +1,239 @@
+    1  pwd
+    2  cd /mnt
+    3  ls
+    4  cd ..
+    5  media/
+    6  cd media/UUI/
+    7  ls
+    8  cp Final\ Network\ Data/ /opt
+    9  cp -rf Final\ Network\ Data/ /opt
+   10  cd ..
+   11  umount UUI/
+   12  cd Desktop/
+   13  cp android-studio-ide-135.1740770-linux.zip /opt/
+   14  cd /opt/
+   15  ls
+   16  tar -xvf android-studio-ide-135.1740770-linux.zip 
+   17  unzip android-studio-ide-135.1740770-linux.zip 
+   18  ls
+   19  cd android-studio/bin
+   20  sh studio.sh 
+   21  cp /home/mohan/Desktop/jdk-7u71-linux-x64.tar.gz /opt/
+   22  cd ../..
+   23  ls
+   24  tar -xvf jdk-7u71-linux-x64.tar.gz 
+   25  mv jdk1.7.0_71 /usr/lib/jvm
+   26  cd /usr/lib/jvm/
+   27  ls
+   28  nautilus
+   29  cd /opt/
+   30  ls
+   31  tar -xvf jdk-7u71-linux-x64.tar.gz /usr/lib/jvm/
+   32  tar -xvf jdk-7u71-linux-x64.tar.gz -C /usr/lib/jvm/
+   33  cd /usr/lib/jvm/
+   34  ls
+   35  cd
+   36  gedit .bashrc 
+   37  javac-version
+   38  javac -version
+   39  java -version
+   40  cls
+   41  cd /opt/
+   42  ls
+   43  cd android-studio
+   44  cd bin/
+   45  ls
+   46  sh studio.sh 
+   47  sudo apt-get install lib32z1 lib32ncurses5 lib32bz2-1.0 lib32stdc++6
+   48  lsb_release 
+   49  /sbin/findfs 
+   50  sudo apt-get install lib32z1 lib32ncurses5 lib32bz2-1.0 lib32stdc++6
+   51  cd /media/
+   52  ls
+   53  cd UUI/
+   54  ls
+   55  cd Final\ Network\ Data/
+   56  ls
+   57  cp Group1 /opt/Final\ Network\ Data/
+   58  cp -rf Group1 /opt/Final\ Network\ Data/
+   59  cd ..
+   60  cp Final\ Network\ Data/ /opt/back/
+   61  cp -rf  Final\ Network\ Data/ /opt/back/
+   62  cd/o
+   63  cd /opt/
+   64  ls
+   65  cd back/
+   66  ls
+   67  cd .
+   68  cd ..
+   69  mv back backup
+   70  ls
+   71  2~
+   72  rar
+   73  apt-get install rar
+   74  init 0
+   75  emulator -avd ritesh -qemu -m 512 -enable-kvm
+   76  qemulator -avd ritesh -qemu -m 512 -enable-kvm
+   77  apt-get install qemulator
+   78  get-apt update
+   79  apt-get update
+   80  qemulator -avd ritesh -qemu -m 512 -enable-kvm
+   81  apt-get install qemulator
+   82  emulator -avd ritesh -qemu -m 512 -enable-kvm
+   83  qemulator -avd ritesh -qemu -m 512 -enable-kvm
+   84  -qemu -m 512 -enable-kvm
+   85  qemulator -avd ritesh -qemu -m 512 -enable-kvm
+   86  cd /opt/
+   87  cd android-studio/bin/
+   88  ls
+   89  sh studio.sh 
+   90  cd /home/mohan/Desktop/
+   91  ls
+   92  cp adt-bundle-linux-x86_64-20130729.zip /opt/
+   93  cd/o
+   94  cd /opt/
+   95  ls
+   96  unzip adt-bundle-linux-x86_64-20130729.zip 
+   97  ls
+   98  cd adt-bundle-linux-x86_64-20130729
+   99  ls
+  100  cd eclipse/
+  101  ls
+  102  ./eclipse
+  103  eclipse
+  104  ln -s /opt/adt-bundle-linux-x86_64-20130729/eclipse/eclipse /usr/bin/eclipse
+  105  eclipse
+  106  init 1
+  107  eclipse
+  108  init 0
+  109  eclipse 
+  110  init 0
+  111  eclipse 
+  112  init 0
+  113  eclipse 
+  114  init 0
+  115  eclipse 
+  116  cd/o
+  117  cd /opt/android-studio/bin/
+  118  sh studio.s
+  119  sh studio.sh 
+  120  genymotion
+  121  nautilus
+  122  init 0
+  123  cd /opt/android-studio/bin/
+  124  sh studio.sh 
+  125  init 1
+  126  cd /opt/
+  127  cd android-studio/bin/
+  128  ls
+  129  sh studio.sh 
+  130  init 1
+  131  cd /opt/android-studio/bin/
+  132  sh studio.sh 
+  133  exit
+  134  cd /opt/android-studio/bin/
+  135  sh studio.sh 
+  136  exit
+  137  cd /opt/
+  138  ls
+  139  cd ..
+  140  javac
+  141  ls
+  142  wget http://apache.dataphone.se/tomcat/tomcat-7/v7.0.12/bin/apache-tomcat-7.0.12.tar.gz
+  143  exit
+  144  cd /opt/android-studiod/bin
+  145  cd /opt/android-studio/bin/
+  146  sh studio.sh 
+  147  cd /opt/android-studio/bin/
+  148  sh studio.sh 
+  149  init 1
+  150  cd /opt/android-studio/bin/
+  151  sh studio.sh 
+  152  clear
+  153  sh studio.sh 
+  154  nautilus
+  155  studio
+  156  nautilus
+  157  exit
+  158  studio 
+  159  exit
+  160  cd Desktop/
+  161  ls
+  162  cd Sublime\ Text\ 2/
+  163  ls
+  164  sh sublime_text 
+  165  ls
+  166  ./sublime_text 
+  167  ln -s sublime_text sublime
+  168  cd
+  169  sublime
+  170  cd /home/mohan/Desktop/Sublime\ Text\ 2/
+  171  ls
+  172  rm -rf sublime
+  173  ln -s sublime_text /usr/bin/sublime
+  174  cd
+  175  sublime
+  176  sh sublime
+  177  cd /usr/
+  178  ls sublime
+  179  cd /home/mohan/Desktop/Sublime\ Text\ 2/
+  180  ls
+  181  ln -s sublime_text /usr/bin/
+  182  ln -s sublime_text /usr/bin/sublime
+  183  sh sublime_
+  184  sh sublime_text 
+  185  ls
+  186  sublime_text
+  187  sh sublime_text 
+  188  exit
+  189  studio 
+  190  cd Desktop/Sublime\ Text\ 2/
+  191  ls
+  192  ./sublime_text 
+  193  studio 
+  194  cd Desktop/Sublime\ Text\ 2/
+  195  sh sublime_text 
+  196  ./sublime_text 
+  197  apt-get install git
+  198  apt-get update
+  199  apt-get install git
+  200  ls
+  201  cd Evernote
+  202  ls
+  203  cd app/
+  204  ls
+  205  cd src
+  206  ls
+  207  cd main/
+  208  ls
+  209  cd java/
+  210  ls
+  211  cd com/
+  212  ls
+  213  cd example/
+  214  ls
+  215  remi
+  216  remainder/
+  217  ls
+  218  cd remainder/
+  219  ls
+  220  evernote/
+  221  cd evernote/
+  222  ls
+  223  cd ../../../
+  224  cd ../../../../..
+  225  pwd
+  226  ls
+  227  git add .
+  228  git init
+  229  git add .
+  230  ls
+  231  git commit -m "first commit"
+  232  git log
+  233  git status
+  234  git checkout de8c4f94872b208b190672f858d314c7417f0519
+  235  git checkout master
+  236  git remote add origin https://github.com/mohanba/Evernote.git
+  237  git push -U origin master
+  238  git push -u origin master
+  239  history > git
